@@ -6,4 +6,6 @@ auth.py ： 用python调用zabbix官方文档给的api接口获取zabbix的数�
 
 zabbix3.0官方文档的API接口： https://www.zabbix.com/documentation/3.0/manual/api
 
+![image](https://github.com/chenjinjay/my_dev/blob/master/picture/1.jpg)
 
+![image](https://github.com/chenjinjay/my_dev/blob/master/picture/2.jpg)
