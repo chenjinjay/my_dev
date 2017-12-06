@@ -16,7 +16,7 @@ zabbix3.0官方文档的API接口： https://www.zabbix.com/documentation/3.0/ma
 
 ![image](https://github.com/chenjinjay/my_dev/blob/master/picture/2.jpg)
 
-# 结果：
+结果：
 
 [root@运维测试服 cjj]# python auth.py 
 
@@ -40,7 +40,7 @@ Group ID: 4     GroupName: Zabbix servers
 
 Group ID: 8     GroupName: 内网集群
 
-# 个人总结：
+个人总结：
 
 由于还未深入学习这类性质的代码，所以只能根据本次实验总结出一些个人的观点供参考。
 
