@@ -1,6 +1,6 @@
 # my_dev
 
-#一、auth.py ：
+# 一、auth.py ：
 
 用python调用zabbix官方文档给的api接口获取zabbix的数据，代码已经有注释，不再说明。
 
